@@ -1,6 +1,6 @@
 
-karma-renderer-launcher
-=======================
+cef-renderer
+============
 
 > NodeJS wrapper to run [renderer](https://github.com/ernestoalejo/renderer).
 
@@ -18,4 +18,8 @@ npm install cef-renderer --save-dev
 API
 ---
 
+### .path
 
+Type: `String`
+
+Path to the renderer binary.
