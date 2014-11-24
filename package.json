@@ -1,0 +1,24 @@
+{
+  "name": "cef-renderer",
+  "version": "0.1.0-pre",
+  "description": "NodeJS wrapper to run renderer.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ernestoalejo/cef-renderer.git"
+  },
+  "keywords": [
+    "renderer",
+    "cef",
+    "wrapper"
+  ],
+  "author": "Ernesto Alejo <ernestokarim@gmail.com>",
+  "dependencies": {
+    "download": "^3.1.2",
+    "download-status": "^2.1.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "install": "node install.js"
+  }
+}
