@@ -18,8 +18,14 @@ npm install cef-renderer --save-dev
 API
 ---
 
-### .path
+### .karma
 
 Type: `String`
 
-Path to the renderer binary.
+Path to the karma binary of renderer.
+
+### .seo
+
+Type: `String`
+
+Path to the seo binary of renderer.
